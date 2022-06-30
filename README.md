@@ -1,3 +1,4 @@
 # kalkulator
 
-trust me it still have a lots of bugs xDD
+trust me it still has a lot of bugs xDD
+Fixed later
